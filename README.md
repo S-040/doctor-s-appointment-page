@@ -11,7 +11,8 @@
 
   <h2 align="center">Doclab - Hospital Website</h2>
 
-  Doclab is a fully responsive hospital website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Doclab is a a user-friendly web interface for the doctor appointment booking page. The design should focus on simplicity and ease of use, allowing patients to easily find and book appointments with doctors.
+ responsive hospital website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/doclab/"><strong>➥ Live Demo</strong></a>
 
