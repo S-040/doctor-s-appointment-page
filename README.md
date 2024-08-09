@@ -4,8 +4,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/doclab)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/doclab?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/doclab?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/xu_Cg3SCZX4?style=social)](https://youtu.be/xu_Cg3SCZX4)
+
 
   <br />
   <br />
@@ -21,8 +20,8 @@
 <br />
 
 ### Demo Screeshots
+![desktop (2)](https://github.com/user-attachments/assets/10a09f9c-bf39-4ba2-b23b-5f8e26f76ee9)
 
-![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -46,9 +45,6 @@ Windows:
 git clone https://github.com/codewithsadee/doclab.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
